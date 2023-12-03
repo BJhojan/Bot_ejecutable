@@ -1,4 +1,4 @@
-# Bot_ejecutable
+# Bot de twitch
 Sé que debería hacerlo en inglés, pero aceptémoslo, apenas estoy comenzando. Déjame escribir la guía en español, ya la traduciré al inglés cuando lo necesite.
 
 En este bot tendrás algunas funciones principales como la de poder darle a tus espectadores de Twitch puntos del canal y que los puedan utilizar como quieran. Te juro que está libre de virus, el antivirus Avast lo guardará en la cuarentena, pero es debido a que es un .exe desconocido. Todo el código es hecho en Python y utilicé algunas librerías (principalmente Twitchio) y guarda la información en archivos .json…
